@@ -1,4 +1,4 @@
-
+```
   530  conda create -n AB_testing python=3
   531  conda activate AB_testing
   532  conda list
@@ -55,3 +55,4 @@
   609  jupyter notebook
   610  history 
   611  history > updated.md
+```
